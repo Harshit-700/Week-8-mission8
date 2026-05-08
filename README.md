@@ -5,7 +5,7 @@ CineStream is a modern Netflix-inspired movie discovery application built with R
 🔗 Live Demo: *Add your deployed link here*
 
 📸 Screenshot
-
+![img alt](https://github.com/Harshit-700/Week-8-mission8/blob/42b937fa01035430f622f1b57057f5e35f96f7f7/Screenshot%20(429).png)
 
 ---
 
